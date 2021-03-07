@@ -1,0 +1,22 @@
+Starting
+Finding the episodes of the show with the highest rating.
+season	episode	rating	vote
+5	14	10.0	133279
+4	13	9.9	45635
+5	16	9.9	91085
+5	13	9.8	34214
+5	5	9.7	25098
+Finding the episodes of the show with the lowest rating.
+season	episode	rating	vote
+3	10	7.8	24715
+4	3	8.1	14609
+1	4	8.3	17541
+3	4	8.3	14229
+2	4	8.3	15360
+Finding the highest voted episodes of the show.
+season	episode	rating	vote
+5	14	10.0	133279
+Finding the lowest voted episodes of the show.
+season	episode	rating	vote
+5	16	9.9	91085
+All done.
