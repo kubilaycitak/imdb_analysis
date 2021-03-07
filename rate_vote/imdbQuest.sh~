@@ -1,0 +1,16 @@
+#!/bin/bash          
+echo Starting
+
+#echo Finding the episodes of the show with the highest rating.
+#mysql -uroot < hw1/rate_vote/highestRating.sql
+
+#echo Finding the episodes of the show with the lowest rating.
+#mysql -uroot < hw1/rate_vote/lowestRating.sql
+
+#echo Finding the highest voted episodes of the show.
+#mysql -uroot < hw1/rate_vote/highestVoted.sql
+
+#echo Finding the lowest voted episodes of the show.
+#mysql -uroot < hw1/rate_vote/lowestVoted.sql
+
+echo All done.
