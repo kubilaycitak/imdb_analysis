@@ -1,4 +1,0 @@
-USE masterclass;
-
-SELECT tconst, COUNT(*) FROM principles
-GROUP BY tconst;
