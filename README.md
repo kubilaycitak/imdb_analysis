@@ -1,4 +1,4 @@
-# Data Engineering Masterclass Homework
+# IMDb Analysis on Shell
 
 ## Kullanim
 
